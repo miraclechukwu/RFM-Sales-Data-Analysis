@@ -1,4 +1,5 @@
 # RFM Sales Data Analysis
+![](rfm_intro.jpg)
 
 ## Introduction
 In the dynamic landscape of sales, the RFM (Recency, Frequency, Monetary) analysis provides a powerful lens for understanding customer behavior and tailoring marketing strategies. This documentation delves into an extensive RFM analysis of sales data, aiming to derive insights into customer segments, retention rates, and strategic opportunities.
@@ -21,19 +22,30 @@ To enhance temporal analysis accuracy, the date values were updated and the colu
 
 ## Analytics Insights
 - What was the top 3 best month for sales in a specific year? How much was earned that month?
+![](best_month.JPG)
 - November seems to be the month, what top 5 product do they sell the most November?
+![](top_5_prod.JPG)
 - Who is our best customer (this could be best answered with RFM)
+![](best_customer.JPG)
+![](best_customer2.JPG)
 - What product are most often sold together?
-- What product are most often sold together?
+![](prod_often_sold_together.JPG)
+![](prod_often_sold_together2.JPG)
 - Identify the top 3 product line with the highest average monthly sales growth and the corresponding month.
-
+![](top_3_prod_line.JPG)
 
 ## Derived Insights through RFM Analysis
+
 1. Customer Segmentation with RFM Analysis
-Categorizing customers based on RFM analysis provided nuanced insights into distinct customer segments. This involved calculating recency, frequency, and monetary value metrics for each customer.
+   
+In categorizing customers through the utilization of RFM analysis, nuanced insights into distinct customer segments are unveiled. This process encompasses the calculation of recency, frequency, and monetary value metrics for each customer, contributing to a comprehensive understanding of their behaviors and preferences.
+![](rfm1.JPG)
+![](rfm2.JPG)
 
 2. Customer Retention Rate
-By analyzing customer transactions over quarters and applying the RFM framework, the documentation calculated the customer retention rate. This measure shed light on the effectiveness of customer retention strategies.
+
+Through the careful analysis of customer transactions spanning multiple quarters and the application of the RFM framework, this query is employed to calculate the customer retention rate. The derived measure serves as a tool to illuminate the effectiveness of implemented customer retention strategies.
+![](customer_rr.JPG)
 
 ## Conclusion
 In conclusion, the RFM analysis proved to be a valuable tool for deciphering customer behavior within the sales dataset. It provided insights into customer segments, highlighted retention trends, and offered a foundation for strategic decision-making.
